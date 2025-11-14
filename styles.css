@@ -11,7 +11,7 @@ nav {
     text-align: center;
 }
 nav .logo img {
-    width: 250px;
+    width: 200px;
 }
 nav h1 {
     font-size: 30px;
@@ -188,4 +188,5 @@ footer img {
     .red-b {
         margin-bottom: 5px;
     }
+
 }
